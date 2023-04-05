@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kakaofont/static/css/main.11fc8516.css",
-    "main.js": "/kakaofont/static/js/main.2c591b6d.js",
+    "main.css": "/kakaofont/static/css/main.50cb520f.css",
+    "main.js": "/kakaofont/static/js/main.2535f981.js",
     "static/js/787.febe10c8.chunk.js": "/kakaofont/static/js/787.febe10c8.chunk.js",
     "static/media/info.mp4": "/kakaofont/static/media/info.b14c7574a1dc946507e8.mp4",
     "static/media/KakaoRegular.woff": "/kakaofont/static/media/KakaoRegular.54c7992991ede8da2d99.woff",
@@ -37,12 +37,12 @@
     "static/media/right.svg": "/kakaofont/static/media/right.b7f5a108f3a1090f02ce8b0c9fa1dfb1.svg",
     "static/media/center.svg": "/kakaofont/static/media/center.82584c57499776e6eb1c235c5ce885fb.svg",
     "static/media/left.svg": "/kakaofont/static/media/left.d5c1f2780b87381143ae8d3b4b1b7694.svg",
-    "main.11fc8516.css.map": "/kakaofont/static/css/main.11fc8516.css.map",
-    "main.2c591b6d.js.map": "/kakaofont/static/js/main.2c591b6d.js.map",
+    "main.50cb520f.css.map": "/kakaofont/static/css/main.50cb520f.css.map",
+    "main.2535f981.js.map": "/kakaofont/static/js/main.2535f981.js.map",
     "787.febe10c8.chunk.js.map": "/kakaofont/static/js/787.febe10c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11fc8516.css",
-    "static/js/main.2c591b6d.js"
+    "static/css/main.50cb520f.css",
+    "static/js/main.2535f981.js"
   ]
 }
